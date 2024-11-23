@@ -29,7 +29,7 @@
             // Reindirizza dopo 2 secondi
             setTimeout(function(){
                 fbq('track', 'ViewContent'); // Traccia l'evento ViewContent
-                window.location.href = "https://open.spotify.com/track/4VEFn6NN9hj4buCOG7Wqxb?si=c4e70d3e3d6f4d69";
+                window.location.href = "https://open.spotify.com/track/2xEGuzGKXn8tGXIENpfLsy?si=9Gk-LGdKSGKUy25VBdIZtQ";
             }, 2000);
         };
     </script>
